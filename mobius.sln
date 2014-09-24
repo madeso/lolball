@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mobius", "src\mobius\mobius.vcproj", "{1B2932EB-3E62-49B4-8449-8BC407B0FB17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "an82lvl", "an82lvl\an82lvl.vcproj", "{87B505B2-9A87-424E-8ADD-BDBACD3B039E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2932EB-3E62-49B4-8449-8BC407B0FB17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B2932EB-3E62-49B4-8449-8BC407B0FB17}.Debug|Win32.Build.0 = Debug|Win32
+		{1B2932EB-3E62-49B4-8449-8BC407B0FB17}.Release|Win32.ActiveCfg = Release|Win32
+		{1B2932EB-3E62-49B4-8449-8BC407B0FB17}.Release|Win32.Build.0 = Release|Win32
+		{87B505B2-9A87-424E-8ADD-BDBACD3B039E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87B505B2-9A87-424E-8ADD-BDBACD3B039E}.Debug|Win32.Build.0 = Debug|Win32
+		{87B505B2-9A87-424E-8ADD-BDBACD3B039E}.Release|Win32.ActiveCfg = Release|Win32
+		{87B505B2-9A87-424E-8ADD-BDBACD3B039E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

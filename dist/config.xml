@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<config>
+    <resolution width="800" height="600" />
+    <fullscreen value="1" />
+    <sensitivity value="20.000000" />
+    <master value="1.000000" />
+    <debug value="0" />
+    <xaxis value="0" />
+    <yaxis value="1" />
+    <saxis value="2" />
+    <jumpbutton value="0" />
+    <restartbutton value="3" />
+    <pausebutton value="7" />
+    <menubutton value="6" />
+    <stick value="0" />
+    <considerJoystick value="1" />
+    <considerKeyboard value="1" />
+    <considerMouse value="1" />
+</config>

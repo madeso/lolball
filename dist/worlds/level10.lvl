@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<level>
+    <entity name="eobject01" type="basicroad">
+        <position x="17" y="0" z="8" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject02" type="roadturn">
+        <position x="17" y="0" z="6" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject03" type="updownroad">
+        <position x="27" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject04" type="downuproad">
+        <position x="29" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject05" type="roadturn">
+        <position x="31" y="-1" z="14" />
+        <rotation x="0" y="-1" z="0" w="0" />
+    </entity>
+    <entity name="eobject06" type="basicroad">
+        <position x="19" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject07" type="roadstop">
+        <position x="8" y="0" z="6" />
+        <rotation x="0" y="-0.70711" z="0" w="-0.70711" />
+    </entity>
+    <entity name="eobject08" type="roadend">
+        <position x="15" y="0" z="6" />
+        <rotation x="0" y="-0.70711" z="0" w="-0.70711" />
+    </entity>
+    <entity name="eobject09" type="_start">
+        <position x="8" y="1" z="6" />
+        <rotation x="0" y="0.4462" z="0" w="0.89493" />
+    </entity>
+    <entity name="eobject10" type="_end">
+        <position x="-5" y="1" z="10" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject12" type="downuproad">
+        <position x="25" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject13" type="roadturn">
+        <position x="17" y="0" z="10" />
+        <rotation x="0" y="0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject15" type="updownroad">
+        <position x="23" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject16" type="roadturn">
+        <position x="31" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject17" type="basicroad">
+        <position x="29" y="-1" z="14" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject18" type="basicroad">
+        <position x="20" y="-1" z="14" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject25" type="twowall">
+        <position x="10" y="0" z="4" />
+        <rotation x="0" y="-1" z="0" w="0" />
+    </entity>
+    <entity name="eobject26" type="twowall">
+        <position x="10" y="0" z="8" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject27" type="onewall">
+        <position x="12" y="0" z="6" />
+        <rotation x="0" y="-0.70711" z="0" w="-0.70711" />
+    </entity>
+    <entity name="eobject28" type="twowall">
+        <position x="12" y="0" z="4" />
+        <rotation x="0" y="-0.70711" z="0" w="-0.70711" />
+    </entity>
+    <entity name="eobject29" type="twowall">
+        <position x="12" y="0" z="8" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject30" type="twodots">
+        <position x="10" y="0" z="6" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject31" type="basicroad">
+        <position x="21" y="0" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject32" type="roadupordown">
+        <position x="31" y="-1" z="12" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject33" type="roadend">
+        <position x="22" y="-1" z="14" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="sky" type="skysphere">
+        <position x="8" y="2" z="0" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject34" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.339" y="0.85617" z="4.9787" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject35" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.352" y="0.85611" z="6.9779" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject36" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.222" y="0.85621" z="4.9536" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject37" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="11.189" y="0.84596" z="6.0449" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject38" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.249" y="0.85612" z="6.969" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject39" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.339" y="1.93" z="4.9787" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject40" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.352" y="1.93" z="6.9779" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject41" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.222" y="1.93" z="4.9536" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject42" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="11.189" y="1.9198" z="6.0449" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject43" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.249" y="1.93" z="6.969" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject44" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.339" y="2.4556" z="4.9787" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject45" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.352" y="2.4556" z="6.9779" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject46" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.222" y="2.4556" z="4.9536" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject47" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="11.189" y="2.4453" z="6.0449" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject48" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.249" y="2.4556" z="6.969" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject49" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.339" y="2.9845" z="4.9787" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject50" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.352" y="2.9845" z="6.9779" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject51" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.222" y="2.9845" z="4.9535" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject52" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="11.189" y="2.9845" z="6.0449" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject53" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.249" y="2.9845" z="6.9689" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject54" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.339" y="1.4022" z="4.9787" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject55" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="10.352" y="1.4022" z="6.9779" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject56" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.222" y="1.4022" z="4.9536" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject57" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="11.189" y="1.3919" z="6.0449" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject58" type="_2_box_0.5_0.5_0.5_cube">
+        <position x="12.249" y="1.4022" z="6.969" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject59" type="_GameOverPlane">
+        <position x="14" y="-2" z="10" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="Level Ten: Showdown" type="_LevelName">
+        <position x="17" y="0" z="-5" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="complete" type="_NextLevel">
+        <position x="-4.6926" y="0" z="-4.7293" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject60" type="roadend">
+        <position x="18" y="-1" z="14" />
+        <rotation x="0" y="0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject61" type="roadend">
+        <position x="27" y="-1" z="14" />
+        <rotation x="0" y="0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject62" type="roadturn">
+        <position x="12" y="-1" z="14" />
+        <rotation x="0" y="0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject63" type="roadend">
+        <position x="14" y="-1" z="14" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject64" type="roadturn">
+        <position x="12" y="-1" z="12" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject65" type="basicroad">
+        <position x="10" y="-1" z="12" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject70" type="basicroad">
+        <position x="8" y="-1" z="12" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject71" type="roadturn">
+        <position x="6" y="-1" z="12" />
+        <rotation x="0" y="-0.70711" z="0" w="-0.70711" />
+    </entity>
+    <entity name="eobject75" type="updownroad">
+        <position x="4" y="-1" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject76" type="roadturn">
+        <position x="6" y="-1" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject77" type="updownroad">
+        <position x="0" y="-1" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject78" type="roadend">
+        <position x="-4" y="-1" z="10" />
+        <rotation x="0" y="0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject81" type="downuproad">
+        <position x="2" y="-1" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject82" type="downuproad">
+        <position x="-2" y="-1" z="10" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+</level>

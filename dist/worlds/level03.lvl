@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<level>
+    <entity name="eobject03" type="updownroad">
+        <position x="-6" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject04" type="downuproad">
+        <position x="-4" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject06" type="basicroad">
+        <position x="-12" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject07" type="roadstop">
+        <position x="8" y="3" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject08" type="roadend">
+        <position x="-14" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="-0.70711" />
+    </entity>
+    <entity name="eobject09" type="_start">
+        <position x="8" y="4" z="-2" />
+        <rotation x="0" y="0.4462" z="0" w="0.89493" />
+    </entity>
+    <entity name="eobject10" type="_end">
+        <position x="-16" y="1" z="-2" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject11" type="roadupordown">
+        <position x="4" y="1" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject12" type="downuproad">
+        <position x="-8" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject14" type="roadupordown">
+        <position x="2" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject15" type="updownroad">
+        <position x="-2" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject17" type="basicroad">
+        <position x="0" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject18" type="basicroad">
+        <position x="-10" y="0" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="eobject32" type="roadupordown">
+        <position x="6" y="2" z="-2" />
+        <rotation x="0" y="-0.70711" z="0" w="0.70711" />
+    </entity>
+    <entity name="sky" type="skysphere">
+        <position x="14" y="2" z="1" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="eobject59" type="_GameOverPlane">
+        <position x="15" y="-1" z="-6" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="Level Three: Go For IT" type="_LevelName">
+        <position x="17" y="0" z="-5" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+    <entity name="level04" type="_NextLevel">
+        <position x="-3" y="0" z="-8" />
+        <rotation x="0" y="0" z="0" w="1" />
+    </entity>
+</level>

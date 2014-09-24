@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+
+<music>
+	<song file="KY_BF.XM" length="160000"/>
+	<song file="KY_404.XM" length="151000"/>
+	<song file="KY_ET.XM" length="161000"/>
+	<song file="KY_LOGW.XM" length="236000"/>
+</music>

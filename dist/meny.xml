@@ -1,0 +1,57 @@
+<?xml version="1.0">
+<menu>
+	<!-- MAIN -->
+	<button name="new" label="New Game"       x="0.05" y="0.3"/>
+	<button name="continue" label="Continue"   x="0.05" y="0.3"/>
+	<button name="controls" label="Controls"   x="0.05" y="0.4"/>
+	<button name="options" label="Options"   x="0.05" y="0.5"/>
+	<button name="credits" label="Credits"   x="0.05" y="0.6"/>
+	<button name="quit" label="Quit Lol-ball" x="0.05" y="0.7"/>
+	<button name="abort" label="Unload level" x="0.05" y="0.7"/>
+	<background name="main">
+		<image file="menybkg.png"/>
+	</background>
+
+	<!-- QUIT -->
+	<button name="no" label="No" x="0.05" y="0.45"/>
+	<button name="yes" label="Yes" x="0.05" y="0.4"/>
+	<background name="quit">
+		<image file="menybkg.png"/>
+		<label text="Quit lol-ball?" x="0.05" y="0.3" />
+	</background>
+
+	<!-- Controls -->
+	<button name="controls.back" label="Back" x="0.05" y="0.9"/>
+	<background name="controls">
+		<image file="menybkg.png"/>
+		<label text="Use cursor keys or mouse to move" x="0.05" y="0.3" />
+		<label text="Hold [CTRL] or [RMB] to slow down time" x="0.05" y="0.35" />
+		<label text="Press [SHIFT] or [LMB] to jump" x="0.05" y="0.4" />
+		<label text="While in slow-mo jump many times to perform combos" x="0.05" y="0.45" />
+		<label text="to gain points. You are always loosing points" x="0.05" y="0.5" />
+		<label text="Complete and you gain more points, fall outside and" x="0.05" y="0.55" />
+		<label text="you simply restart. Complete the level as fast as" x="0.05" y="0.6" />
+		<label text="possible to gain as much score as you can" x="0.05" y="0.65" />
+		<label text="With a 360 controller you can move with left thumbstick," x="0.05" y="0.72" />
+		<label text="jump with [A] and do slow mo with [LT] or [RT]" x="0.05" y="0.77" />
+	</background>
+
+	<!-- Options -->
+	<button name="resolution" label="800x600" x="0.05" y="0.3"/>
+	<check name="fullscreen" x="0.1" y="0.45"/>
+	<slider name="sensitivity" x="0.1" y="0.55" w="0.3" h="0.03"/>
+	<slider name="master" x="0.1" y="0.65" w="0.3" h="0.03"/>
+	<button name="options.back" label="Back" x="0.05" y="0.75"/>
+	<background name="options">
+		<image file="menybkg.png"/>
+		<label text="Fullscreen:" x="0.05" y="0.4" />
+		<label text="Mouse sensitivity:" x="0.05" y="0.5" />
+		<label text="Master volume:" x="0.05" y="0.6" />
+	</background>
+
+	<!-- Credits -->
+	<button name="credits.back" label="Back" x="0.05" y="0.75"/>
+	<background name="credits">
+		<image file="menybkgcred.png"/>
+	</background>
+</menu>
